@@ -1,0 +1,151 @@
+.top-area {
+  height: 4.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back {
+  position: relative;
+  display: block;
+  padding: 10px;
+  width: 30px;
+  height: 30px;
+}
+.back::before,
+.back::after {
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  content: '';
+  display: block;
+  width: 16px;
+  height: 2px;
+  background: #fff;
+  transform-origin: left center;
+}
+.back::before {
+  transform: rotateZ(45deg);
+}
+.back::after {
+  transform: rotateZ(-45deg);
+}
+.shop-info {
+  position: relative;
+  height: 9rem;
+}
+.shop-logo {
+  position:absolute;
+  top: -3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4rem;
+  height: 4rem;
+  border-radius: 3px;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,.2);
+}
+.shop-logo img {
+  width: 100%;
+  height: 100%;
+}
+.shop-detail {
+  padding-top: 2rem;
+}
+.shop-info i {
+  font-style: normal;
+}
+.shop-name {
+  margin: 5px 0;
+}
+.shop-name .brand {
+  display: inline-block;
+  width: 36px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+  overflow: hidden;
+  margin-right: 5px;
+  vertical-align: middle;
+  font-size: .9rem;
+  background-image: linear-gradient(-139deg,#fff100,#ffe339);
+  color: #6f3f15;
+  border-radius: 3px;
+}
+.shop-name span {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.other-info {
+  margin: .5rem 0;
+  font-size: .8rem;
+}
+.other-info span {
+  margin: 0 5px;
+}
+.shop-motion {
+  margin: .5rem 0;
+  font-size: .8rem;
+  color: #999;
+}
+.shop-activities {
+  padding-bottom: .5rem;
+  font-size: .8rem;
+}
+.shop-activities .activity-icon {
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  overflow: hidden;
+  margin-right: 5px;
+  vertical-align: text-bottom;
+  font-size: .7rem;
+  color: #fff;
+}
+.shop-activities .activity {
+  display: inline-block;
+}
+.more-activities {
+  display: inline-block;
+  width: 5rem;
+}
+.more-activities i {
+  font-size: 12px;
+}
+
+.menu-area {
+  position: relative;
+  height: 100%;
+}
+.tabs-nav {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+}
+.tabs-nav .nav-item {
+  flex: 1;
+  height: 40px;
+  line-height: 40px;
+}
+.tabs-nav .nav-item.active{
+  font-weight: 700;
+}
+.tabs-nav .nav-item.active span {
+  display: inline-block;
+}
+.tabs-nav .nav-item.active span::after {
+  display: block;
+  position: relative;
+  top: -2px;
+  content: "";
+  height: 2px;
+  background-color: #3091f2;
+}
+.tabs-content .content-item {
+  display: none;
+  height: 100%;
+}
+.tabs-content .content-item > div {
+  padding-bottom: 50px;
+}
+.tabs-content .content-item.active {
+  display: block;
+}

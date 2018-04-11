@@ -1,0 +1,3033 @@
+[
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "扫码免费领取红包",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 658672754,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "saomazuigaolingqu20yuanhongbao",
+        "display_times": [],
+        "attrs": [],
+        "description": "扫码后下单更优惠哦~",
+        "month_sales": 0,
+        "rating_count": 0,
+        "tips": "0评价 月售0份",
+        "image_path": "d089b4505d2336b5526cf05a689281fejpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "261258563802",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "扫码最高领取20元红包",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "302060737754",
+            "name": "扫码最高领取20元红包",
+            "weight": 0,
+            "virtual_food_id": 658672754,
+            "pinyin_name": "saomazuigaolingqu20yuanhongbao",
+            "restaurant_id": 459563,
+            "food_id": 685254627,
+            "packing_fee": 0,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 0,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "261258563802",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9971
+          }
+        ],
+        "category_id": 526088927
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 526088927,
+    "is_activity": false
+  },
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "招牌风味",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6603930,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyaboweila（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭脖微辣",
+        "month_sales": 32,
+        "rating_count": 4,
+        "tips": "4评价 月售32份",
+        "image_path": "ce80b3645bfd2d08be585bb9571d782ajpeg",
+        "specifications": [
+          {
+            "values": [
+              "大份",
+              "小份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926149850",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭脖微辣（份）",
+        "satisfy_count": 4,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652033754",
+            "name": "招牌鸭脖微辣（份）",
+            "weight": 0,
+            "virtual_food_id": 6603930,
+            "pinyin_name": "zhaopaiyaboweila（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36794764,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 22,
+            "is_essential": false,
+            "item_id": "4926149850",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9944
+          },
+          {
+            "original_price": null,
+            "sku_id": "173683011802",
+            "name": "招牌鸭脖微辣（份）",
+            "weight": 0,
+            "virtual_food_id": 6603930,
+            "pinyin_name": "zhaopaiyaboweila（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559885754,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 10,
+            "is_essential": false,
+            "item_id": "4926149850",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9972
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 0,
+        "virtual_food_id": 6604272,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyajia（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭架微辣",
+        "month_sales": 12,
+        "rating_count": 1,
+        "tips": "1评价 月售12份",
+        "image_path": "2448c24450cdeb2d6eb8dc710ad0d75bjpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926151898",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭架（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652035802",
+            "name": "招牌鸭架（份）",
+            "weight": 0,
+            "virtual_food_id": 6604272,
+            "pinyin_name": "zhaopaiyajia（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36796777,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926151898",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9984
+          },
+          {
+            "original_price": null,
+            "sku_id": "173683094746",
+            "name": "招牌鸭架（份）",
+            "weight": 0,
+            "virtual_food_id": 6604272,
+            "pinyin_name": "zhaopaiyajia（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559885835,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926151898",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9989
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6604443,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyachang（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭肠辣",
+        "month_sales": 15,
+        "rating_count": 2,
+        "tips": "2评价 月售15份",
+        "image_path": "2a03b25f68d5f4540ce35075e9aed1ddjpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926152922",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭肠（份）",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652036826",
+            "name": "招牌鸭肠（份）",
+            "weight": 0,
+            "virtual_food_id": 6604443,
+            "pinyin_name": "zhaopaiyachang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36797009,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 9,
+            "is_essential": false,
+            "item_id": "4926152922",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9973
+          },
+          {
+            "original_price": null,
+            "sku_id": "173689430234",
+            "name": "招牌鸭肠（份）",
+            "weight": 0,
+            "virtual_food_id": 6604443,
+            "pinyin_name": "zhaopaiyachang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559892022,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926152922",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9987
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6605221,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaifengzhua（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌凤爪微辣",
+        "month_sales": 5,
+        "rating_count": 0,
+        "tips": "0评价 月售5份",
+        "image_path": "47e222cec4879e4562442a23b41d43e0jpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926155994",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌凤爪（份）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652039898",
+            "name": "招牌凤爪（份）",
+            "weight": 0,
+            "virtual_food_id": 6605221,
+            "pinyin_name": "zhaopaifengzhua（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36799500,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926155994",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9987
+          },
+          {
+            "original_price": null,
+            "sku_id": "173685170394",
+            "name": "招牌凤爪（份）",
+            "weight": 0,
+            "virtual_food_id": 6605221,
+            "pinyin_name": "zhaopaifengzhua（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559887861,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926155994",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9991
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6606505,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyatou（ge）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭头微辣",
+        "month_sales": 35,
+        "rating_count": 2,
+        "tips": "2评价 月售35份",
+        "image_path": "05ea9aec5449a9063c74e0a5ce41f1cdjpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926159066",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭头（个）",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652042970",
+            "name": "招牌鸭头（个）",
+            "weight": 0,
+            "virtual_food_id": 6606505,
+            "pinyin_name": "zhaopaiyatou（ge）",
+            "restaurant_id": 459563,
+            "food_id": 36802526,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 6,
+            "sold_out": false,
+            "recent_popularity": 35,
+            "is_essential": false,
+            "item_id": "4926159066",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9940
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1283882487,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyachizhong",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 12,
+        "rating_count": 2,
+        "tips": "2评价 月售12份",
+        "image_path": "d9a8de16b7330f99a9c2ae93fdf3f532jpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000085895666906",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭翅中",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000092640331994",
+            "name": "招牌鸭翅中",
+            "weight": 0,
+            "virtual_food_id": 1283882487,
+            "pinyin_name": "zhaopaiyachizhong",
+            "restaurant_id": 459563,
+            "food_id": 1290469074,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "200000085895666906",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9983
+          },
+          {
+            "original_price": null,
+            "sku_id": "200000092640333018",
+            "name": "招牌鸭翅中",
+            "weight": 0,
+            "virtual_food_id": 1283882487,
+            "pinyin_name": "zhaopaiyachizhong",
+            "restaurant_id": 459563,
+            "food_id": 1290469075,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "200000085895666906",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9982
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.5,
+        "is_featured": 0,
+        "virtual_food_id": 1283882570,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyashe",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 14,
+        "rating_count": 2,
+        "tips": "2评价 月售14份",
+        "image_path": "d62c35efacc47df2fdc555cc30aab092jpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000085895751898",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭舌",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000092640426202",
+            "name": "招牌鸭舌",
+            "weight": 0,
+            "virtual_food_id": 1283882570,
+            "pinyin_name": "zhaopaiyashe",
+            "restaurant_id": 459563,
+            "food_id": 1290469166,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 11,
+            "is_essential": false,
+            "item_id": "200000085895751898",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9972
+          },
+          {
+            "original_price": null,
+            "sku_id": "200000092640427226",
+            "name": "招牌鸭舌",
+            "weight": 0,
+            "virtual_food_id": 1283882570,
+            "pinyin_name": "zhaopaiyashe",
+            "restaurant_id": 459563,
+            "food_id": 1290469167,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 40,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "200000085895751898",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9989
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.5,
+        "is_featured": 0,
+        "virtual_food_id": 712814708,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyacuichang",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 10,
+        "rating_count": 2,
+        "tips": "2评价 月售10份",
+        "image_path": "12eec35693ffba5b35bb7517abf33fdajpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "316699924698",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭脆肠",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "363391420634",
+            "name": "招牌鸭脆肠",
+            "weight": 0,
+            "virtual_food_id": 712814708,
+            "pinyin_name": "zhaopaiyacuichang",
+            "restaurant_id": 459563,
+            "food_id": 745147872,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "316699924698",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9991
+          },
+          {
+            "original_price": null,
+            "sku_id": "363391421658",
+            "name": "招牌鸭脆肠",
+            "weight": 0,
+            "virtual_food_id": 712814708,
+            "pinyin_name": "zhaopaiyacuichang",
+            "restaurant_id": 459563,
+            "food_id": 745147873,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "316699924698",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9989
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6604147,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyazhang（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭掌（微辣）",
+        "month_sales": 8,
+        "rating_count": 2,
+        "tips": "2评价 月售8份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926150874",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭掌（份）",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652034778",
+            "name": "招牌鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6604147,
+            "pinyin_name": "zhaopaiyazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36796360,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "4926150874",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9986
+          },
+          {
+            "original_price": null,
+            "sku_id": "173687395546",
+            "name": "招牌鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6604147,
+            "pinyin_name": "zhaopaiyazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559890035,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926150874",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9994
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6604942,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaichijian（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌翅尖微辣",
+        "month_sales": 7,
+        "rating_count": 2,
+        "tips": "2评价 月售7份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926154970",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌翅尖（份）",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652038874",
+            "name": "招牌翅尖（份）",
+            "weight": 0,
+            "virtual_food_id": 6604942,
+            "pinyin_name": "zhaopaichijian（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36798912,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926154970",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9990
+          },
+          {
+            "original_price": null,
+            "sku_id": "173683188954",
+            "name": "招牌翅尖（份）",
+            "weight": 0,
+            "virtual_food_id": 6604942,
+            "pinyin_name": "zhaopaichijian（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559885927,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926154970",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9995
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6606096,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyazhun（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭肫微辣",
+        "month_sales": 6,
+        "rating_count": 1,
+        "tips": "1评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926158042",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭肫（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652041946",
+            "name": "招牌鸭肫（份）",
+            "weight": 0,
+            "virtual_food_id": 6606096,
+            "pinyin_name": "zhaopaiyazhun（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36802135,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926158042",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9995
+          },
+          {
+            "original_price": null,
+            "sku_id": "173687547098",
+            "name": "招牌鸭肫（份）",
+            "weight": 0,
+            "virtual_food_id": 6606096,
+            "pinyin_name": "zhaopaiyazhun（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559890183,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926158042",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9990
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6606640,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyatui（ge）",
+        "display_times": [],
+        "attrs": [],
+        "description": "招牌鸭腿微辣",
+        "month_sales": 4,
+        "rating_count": 1,
+        "tips": "1评价 月售4份",
+        "image_path": null,
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926160090",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭腿（个）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652043994",
+            "name": "招牌鸭腿（个）",
+            "weight": 0,
+            "virtual_food_id": 6606640,
+            "pinyin_name": "zhaopaiyatui（ge）",
+            "restaurant_id": 459563,
+            "food_id": 36802657,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 9,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "4926160090",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9992
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 29795472,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "xianglayabo",
+        "display_times": [],
+        "attrs": [],
+        "description": "特辣",
+        "month_sales": 7,
+        "rating_count": 2,
+        "tips": "2评价 月售7份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926163162",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "香辣鸭脖",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652047066",
+            "name": "香辣鸭脖",
+            "weight": 0,
+            "virtual_food_id": 29795472,
+            "pinyin_name": "xianglayabo",
+            "restaurant_id": 459563,
+            "food_id": 69765623,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "4926163162",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9991
+          },
+          {
+            "original_price": null,
+            "sku_id": "173688620250",
+            "name": "香辣鸭脖",
+            "weight": 0,
+            "virtual_food_id": 29795472,
+            "pinyin_name": "xianglayabo",
+            "restaurant_id": 459563,
+            "food_id": 559891231,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926163162",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9996
+          }
+        ],
+        "category_id": 3545248
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1283894179,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyaruangu",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 1,
+        "tips": "1评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000085907639514",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鸭软骨",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000092636973274",
+            "name": "招牌鸭软骨",
+            "weight": 0,
+            "virtual_food_id": 1283894179,
+            "pinyin_name": "zhaopaiyaruangu",
+            "restaurant_id": 459563,
+            "food_id": 1290465794,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "200000085907639514",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9994
+          },
+          {
+            "original_price": null,
+            "sku_id": "200000092636974298",
+            "name": "招牌鸭软骨",
+            "weight": 0,
+            "virtual_food_id": 1283894179,
+            "pinyin_name": "zhaopaiyaruangu",
+            "restaurant_id": 459563,
+            "food_id": 1290465795,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "200000085907639514",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 10000
+          }
+        ],
+        "category_id": 3545248
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 3545248,
+    "is_activity": false
+  },
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "黑鸭风味",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 5.0,
+        "is_featured": 0,
+        "virtual_food_id": 6607440,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "heiyachizhong（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 1,
+        "tips": "1评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "大份",
+              "小份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926167258",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黑鸭翅中（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652051162",
+            "name": "黑鸭翅中（份）",
+            "weight": 0,
+            "virtual_food_id": 6607440,
+            "pinyin_name": "heiyachizhong（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36804515,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 15,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "4926167258",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9948
+          },
+          {
+            "original_price": null,
+            "sku_id": "173690683610",
+            "name": "黑鸭翅中（份）",
+            "weight": 0,
+            "virtual_food_id": 6607440,
+            "pinyin_name": "heiyachizhong（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559893246,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926167258",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9970
+          }
+        ],
+        "category_id": 3545281
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6607539,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "heiyayabo（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 0,
+        "tips": "0评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926168282",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黑鸭鸭脖（份）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652052186",
+            "name": "黑鸭鸭脖（份）",
+            "weight": 0,
+            "virtual_food_id": 6607539,
+            "pinyin_name": "heiyayabo（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36804625,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926168282",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9929
+          },
+          {
+            "original_price": null,
+            "sku_id": "173688844506",
+            "name": "黑鸭鸭脖（份）",
+            "weight": 0,
+            "virtual_food_id": 6607539,
+            "pinyin_name": "heiyayabo（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559891450,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "4926168282",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9971
+          }
+        ],
+        "category_id": 3545281
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6607621,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "heiyayazhang（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 3,
+        "rating_count": 0,
+        "tips": "0评价 月售3份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "大份",
+              "小份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926169306",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黑鸭鸭掌（份）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652053210",
+            "name": "黑鸭鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6607621,
+            "pinyin_name": "heiyayazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36804723,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926169306",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9926
+          },
+          {
+            "original_price": null,
+            "sku_id": "173686265050",
+            "name": "黑鸭鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6607621,
+            "pinyin_name": "heiyayazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559888931,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926169306",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9973
+          }
+        ],
+        "category_id": 3545281
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6607719,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "heiyayajia（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 7,
+        "rating_count": 0,
+        "tips": "0评价 月售7份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926170330",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黑鸭鸭架（份）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652054234",
+            "name": "黑鸭鸭架（份）",
+            "weight": 0,
+            "virtual_food_id": 6607719,
+            "pinyin_name": "heiyayajia（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36804846,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "4926170330",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9953
+          },
+          {
+            "original_price": null,
+            "sku_id": "173687979226",
+            "name": "黑鸭鸭架（份）",
+            "weight": 0,
+            "virtual_food_id": 6607719,
+            "pinyin_name": "heiyayajia（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559890605,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926170330",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9979
+          }
+        ],
+        "category_id": 3545281
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6609502,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "heiyayatou（ge）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 12,
+        "rating_count": 0,
+        "tips": "0评价 月售12份",
+        "image_path": null,
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926171354",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黑鸭鸭头（个）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652055258",
+            "name": "黑鸭鸭头（个）",
+            "weight": 0,
+            "virtual_food_id": 6609502,
+            "pinyin_name": "heiyayatou（ge）",
+            "restaurant_id": 459563,
+            "food_id": 36806951,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 6,
+            "sold_out": false,
+            "recent_popularity": 12,
+            "is_essential": false,
+            "item_id": "4926171354",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9988
+          }
+        ],
+        "category_id": 3545281
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 23716650,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "jiangbanya（zhenkongbaozhuang）",
+        "display_times": [],
+        "attrs": [],
+        "description": "麻辣",
+        "month_sales": 1,
+        "rating_count": 0,
+        "tips": "0评价 月售1份",
+        "image_path": null,
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926172378",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "酱板鸭（真空包装）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652056282",
+            "name": "酱板鸭（真空包装）",
+            "weight": 0,
+            "virtual_food_id": 23716650,
+            "pinyin_name": "jiangbanya（zhenkongbaozhuang）",
+            "restaurant_id": 459563,
+            "food_id": 61577257,
+            "packing_fee": 1,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 50,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926172378",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9999
+          }
+        ],
+        "category_id": 3545281
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 3545281,
+    "is_activity": false
+  },
+  {
+    "description": "五香系列（不辣）",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "五香系列",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6608055,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiwuxiangyabo（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 2,
+        "tips": "2评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926173402",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌五香鸭脖（份）",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652057306",
+            "name": "招牌五香鸭脖（份）",
+            "weight": 0,
+            "virtual_food_id": 6608055,
+            "pinyin_name": "zhaopaiwuxiangyabo（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36805181,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926173402",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9913
+          },
+          {
+            "original_price": null,
+            "sku_id": "173690823898",
+            "name": "招牌五香鸭脖（份）",
+            "weight": 0,
+            "virtual_food_id": 6608055,
+            "pinyin_name": "zhaopaiwuxiangyabo（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559893383,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "4926173402",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9929
+          }
+        ],
+        "category_id": 3561398
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 6608190,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiwuxiangyazhang（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 2,
+        "rating_count": 1,
+        "tips": "1评价 月售2份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926174426",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌五香鸭掌（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652058330",
+            "name": "招牌五香鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6608190,
+            "pinyin_name": "zhaopaiwuxiangyazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36805323,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926174426",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9929
+          },
+          {
+            "original_price": null,
+            "sku_id": "173693539546",
+            "name": "招牌五香鸭掌（份）",
+            "weight": 0,
+            "virtual_food_id": 6608190,
+            "pinyin_name": "zhaopaiwuxiangyazhang（fen）",
+            "restaurant_id": 459563,
+            "food_id": 559896035,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926174426",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9938
+          }
+        ],
+        "category_id": 3561398
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6608240,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiwuxiangyajia",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 2,
+        "rating_count": 0,
+        "tips": "0评价 月售2份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "大份",
+              "小份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926175450",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌五香鸭架",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652059354",
+            "name": "招牌五香鸭架",
+            "weight": 0,
+            "virtual_food_id": 6608240,
+            "pinyin_name": "zhaopaiwuxiangyajia",
+            "restaurant_id": 459563,
+            "food_id": 36805369,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 20,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926175450",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9973
+          },
+          {
+            "original_price": null,
+            "sku_id": "173687119066",
+            "name": "招牌五香鸭架",
+            "weight": 0,
+            "virtual_food_id": 6608240,
+            "pinyin_name": "zhaopaiwuxiangyajia",
+            "restaurant_id": 459563,
+            "food_id": 559889765,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 25,
+            "sold_out": false,
+            "recent_popularity": 1,
+            "is_essential": false,
+            "item_id": "4926175450",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9979
+          }
+        ],
+        "category_id": 3561398
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 3561398,
+    "is_activity": false
+  },
+  {
+    "description": "招牌素菜系列（微辣）",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "招牌素菜系列",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 6608559,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaiyudoufu（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 5,
+        "rating_count": 0,
+        "tips": "0评价 月售5份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926176474",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌鱼豆腐（份）",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652060378",
+            "name": "招牌鱼豆腐（份）",
+            "weight": 0,
+            "virtual_food_id": 6608559,
+            "pinyin_name": "zhaopaiyudoufu（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36805969,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "4926176474",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9964
+          },
+          {
+            "original_price": null,
+            "sku_id": "369966306522",
+            "name": "招牌鱼豆腐（份）",
+            "weight": 0,
+            "virtual_food_id": 6608559,
+            "pinyin_name": "zhaopaiyudoufu（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751568659,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926176474",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9974
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 0,
+        "virtual_food_id": 6608655,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaicuisun（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 8,
+        "rating_count": 1,
+        "tips": "1评价 月售8份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926177498",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌脆笋（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652061402",
+            "name": "招牌脆笋（份）",
+            "weight": 0,
+            "virtual_food_id": 6608655,
+            "pinyin_name": "zhaopaicuisun（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36806101,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "4926177498",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9971
+          },
+          {
+            "original_price": null,
+            "sku_id": "369987538138",
+            "name": "招牌脆笋（份）",
+            "weight": 0,
+            "virtual_food_id": 6608655,
+            "pinyin_name": "zhaopaicuisun（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751589393,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "4926177498",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9967
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 0,
+        "virtual_food_id": 6608728,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaihaidai（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 13,
+        "rating_count": 1,
+        "tips": "1评价 月售13份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926178522",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌海带（份）",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652062426",
+            "name": "招牌海带（份）",
+            "weight": 0,
+            "virtual_food_id": 6608728,
+            "pinyin_name": "zhaopaihaidai（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36806201,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926178522",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9950
+          },
+          {
+            "original_price": null,
+            "sku_id": "369978016986",
+            "name": "招牌海带（份）",
+            "weight": 0,
+            "virtual_food_id": 6608728,
+            "pinyin_name": "zhaopaihaidai（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751580095,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 7,
+            "is_essential": false,
+            "item_id": "4926178522",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9959
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 3.5,
+        "is_featured": 0,
+        "virtual_food_id": 6608803,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopailianou（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 25,
+        "rating_count": 5,
+        "tips": "5评价 月售25份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926179546",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌莲藕（份）",
+        "satisfy_count": 4,
+        "activity": null,
+        "satisfy_rate": 80,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652063450",
+            "name": "招牌莲藕（份）",
+            "weight": 0,
+            "virtual_food_id": 6608803,
+            "pinyin_name": "zhaopailianou（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36806266,
+            "packing_fee": 0.5,
+            "recent_rating": 3.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 12,
+            "is_essential": false,
+            "item_id": "4926179546",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9907
+          },
+          {
+            "original_price": null,
+            "sku_id": "369987577050",
+            "name": "招牌莲藕（份）",
+            "weight": 0,
+            "virtual_food_id": 6608803,
+            "pinyin_name": "zhaopailianou（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751589431,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 13,
+            "is_essential": false,
+            "item_id": "4926179546",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9932
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 4.25,
+        "is_featured": 0,
+        "virtual_food_id": 6609184,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaimaodou（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 24,
+        "rating_count": 3,
+        "tips": "3评价 月售24份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "大份",
+              "小份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926182618",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌毛豆（份）",
+        "satisfy_count": 3,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652066522",
+            "name": "招牌毛豆（份）",
+            "weight": 0,
+            "virtual_food_id": 6609184,
+            "pinyin_name": "zhaopaimaodou（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36806643,
+            "packing_fee": 0.5,
+            "recent_rating": 4.5,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 18,
+            "is_essential": false,
+            "item_id": "4926182618",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9847
+          },
+          {
+            "original_price": null,
+            "sku_id": "369978120410",
+            "name": "招牌毛豆（份）",
+            "weight": 0,
+            "virtual_food_id": 6609184,
+            "pinyin_name": "zhaopaimaodou（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751580196,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "4926182618",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9947
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 4.5,
+        "is_featured": 0,
+        "virtual_food_id": 6609338,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaifuzhu（fen）",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 15,
+        "rating_count": 3,
+        "tips": "3评价 月售15份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "4926183642",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌腐竹（份）",
+        "satisfy_count": 3,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "5652067546",
+            "name": "招牌腐竹（份）",
+            "weight": 0,
+            "virtual_food_id": 6609338,
+            "pinyin_name": "zhaopaifuzhu（fen）",
+            "restaurant_id": 459563,
+            "food_id": 36806765,
+            "packing_fee": 0.5,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "4926183642",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9960
+          },
+          {
+            "original_price": null,
+            "sku_id": "369977918682",
+            "name": "招牌腐竹（份）",
+            "weight": 0,
+            "virtual_food_id": 6609338,
+            "pinyin_name": "zhaopaifuzhu（fen）",
+            "restaurant_id": 459563,
+            "food_id": 751579999,
+            "packing_fee": 0.5,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 11,
+            "is_essential": false,
+            "item_id": "4926183642",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9954
+          }
+        ],
+        "category_id": 3561446
+      },
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 609987663,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaixiangladougan",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 0,
+        "tips": "0评价 月售6份",
+        "image_path": null,
+        "specifications": [
+          {
+            "values": [
+              "小份",
+              "大份"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "211405030618",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌香辣豆干",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "242317293786",
+            "name": "招牌香辣豆干",
+            "weight": 0,
+            "virtual_food_id": 609987663,
+            "pinyin_name": "zhaopaixiangladougan",
+            "restaurant_id": 459563,
+            "food_id": 626911420,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "211405030618",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9984
+          },
+          {
+            "original_price": null,
+            "sku_id": "369973021914",
+            "name": "招牌香辣豆干",
+            "weight": 0,
+            "virtual_food_id": 609987663,
+            "pinyin_name": "zhaopaixiangladougan",
+            "restaurant_id": 459563,
+            "food_id": 751575217,
+            "packing_fee": 0.5,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 8,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "211405030618",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9983
+          }
+        ],
+        "category_id": 3561446
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 3561446,
+    "is_activity": false
+  },
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "新年5折嗨购",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 747600596,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "zhaopaifengweimaodou",
+        "display_times": [],
+        "attrs": [],
+        "description": "",
+        "month_sales": 6,
+        "rating_count": 2,
+        "tips": "2评价 月售6份",
+        "image_path": "d00d43cf7e729dcb65051626412883f9jpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "352320674010",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "招牌风味毛豆",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "405690274010",
+            "name": "招牌风味毛豆",
+            "weight": 0,
+            "virtual_food_id": 747600596,
+            "pinyin_name": "zhaopaifengweimaodou",
+            "restaurant_id": 459563,
+            "food_id": 786455346,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 10,
+            "sold_out": false,
+            "recent_popularity": 6,
+            "is_essential": false,
+            "item_id": "352320674010",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9956
+          }
+        ],
+        "category_id": 533665684
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 533665684,
+    "is_activity": false
+  },
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "组合套餐",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 0,
+        "is_featured": 0,
+        "virtual_food_id": 1352895681,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "jingdianbosuochitaocan",
+        "display_times": [],
+        "attrs": [],
+        "description": "20元鸭脖+20元鸭锁骨+20元翅膀+8.8元经典小素拼。产品为冷藏保存，请您尽快食用",
+        "month_sales": 2,
+        "rating_count": 0,
+        "tips": "0评价 月售2份",
+        "image_path": "bd6db183c30901af0ebe41ee2943756cjpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000156565163226",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "经典脖锁翅套餐",
+        "satisfy_count": 0,
+        "activity": null,
+        "satisfy_rate": 0,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000179533444314",
+            "name": "经典脖锁翅套餐",
+            "weight": 0,
+            "virtual_food_id": 1352895681,
+            "pinyin_name": "jingdianbosuochitaocan",
+            "restaurant_id": 459563,
+            "food_id": 1375325639,
+            "packing_fee": 0,
+            "recent_rating": 0.0,
+            "promotion_stock": -1,
+            "price": 68.8,
+            "sold_out": false,
+            "recent_popularity": 2,
+            "is_essential": false,
+            "item_id": "200000156565163226",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9995
+          }
+        ],
+        "category_id": 1237574650
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1352887800,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "jingdianxiaosupintaocan",
+        "display_times": [],
+        "attrs": [],
+        "description": "多种选择，任您搭配。如某种产品缺货，将为您调换。菜品随机拼称，每种产品不能保证均分，谢谢理解。产品为冷藏保存，请您尽快食用",
+        "month_sales": 3,
+        "rating_count": 2,
+        "tips": "2评价 月售3份",
+        "image_path": "82e6e6787ef3e09b4a58b56200d5b5f1jpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000156557103322",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "经典小素拼套餐",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000179525603546",
+            "name": "经典小素拼套餐",
+            "weight": 0,
+            "virtual_food_id": 1352887800,
+            "pinyin_name": "jingdianxiaosupintaocan",
+            "restaurant_id": 459563,
+            "food_id": 1375317956,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 16.8,
+            "sold_out": false,
+            "recent_popularity": 3,
+            "is_essential": false,
+            "item_id": "200000156557103322",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9993
+          }
+        ],
+        "category_id": 1237574650
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 1237574650,
+    "is_activity": false
+  },
+  {
+    "description": "",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "汽汽ta汽泡果汁",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1353156734,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "qiqiTahongshumeiweiqipaoguozhi",
+        "display_times": [],
+        "attrs": [],
+        "description": "330ml/瓶 辣卤绝妙搭档——汽汽Ta，10%真果汁含量调配丰盈汽泡，每一口都清新畅爽。微甜爽口的红树莓味堪称解辣小能手，你值得一试！",
+        "month_sales": 5,
+        "rating_count": 3,
+        "tips": "3评价 月售5份",
+        "image_path": "9fa7ace7d5a9e1200bfd18628f6c77f6jpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000156832490714",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "汽汽Ta红树莓味汽泡果汁",
+        "satisfy_count": 3,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000179841944794",
+            "name": "汽汽Ta红树莓味汽泡果汁",
+            "weight": 0,
+            "virtual_food_id": 1353156734,
+            "pinyin_name": "qiqiTahongshumeiweiqipaoguozhi",
+            "restaurant_id": 459563,
+            "food_id": 1375626877,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 5.5,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "200000156832490714",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9991
+          }
+        ],
+        "category_id": 1237603727
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1353156736,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "qiqiTafanshiliuweiqipaoguozhi",
+        "display_times": [],
+        "attrs": [],
+        "description": "330ml/瓶 辣卤绝妙搭档——汽汽Ta，10%真果汁含量调配丰盈汽泡，每一口都清新畅爽。酸甜可口的百香果，让你的味蕾感受辣卤的绝妙口感！",
+        "month_sales": 5,
+        "rating_count": 2,
+        "tips": "2评价 月售5份",
+        "image_path": "bd424d962295480f78b106470f066d38jpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000156832492762",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "汽汽Ta番石榴味汽泡果汁",
+        "satisfy_count": 2,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000179841946842",
+            "name": "汽汽Ta番石榴味汽泡果汁",
+            "weight": 0,
+            "virtual_food_id": 1353156736,
+            "pinyin_name": "qiqiTafanshiliuweiqipaoguozhi",
+            "restaurant_id": 459563,
+            "food_id": 1375626879,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 5.5,
+            "sold_out": false,
+            "recent_popularity": 5,
+            "is_essential": false,
+            "item_id": "200000156832492762",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9992
+          }
+        ],
+        "category_id": 1237603727
+      },
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 1353162214,
+        "cold_box": null,
+        "restaurant_id": 459563,
+        "pinyin_name": "qiqiTabaixiangguoweiqipaoguozhi",
+        "display_times": [],
+        "attrs": [],
+        "description": "330ml/瓶 辣卤绝妙搭档——汽汽Ta，10%真果汁含量调配丰盈汽泡，每一口都清新畅爽。酸甜可口的百香果，让你的味蕾感受辣卤的绝妙口感！",
+        "month_sales": 4,
+        "rating_count": 1,
+        "tips": "1评价 月售4份",
+        "image_path": "0c4cebb93536c460acee0b90c8650d51jpeg",
+        "specifications": [],
+        "server_utc": 1520979211,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "200000156838095066",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "汽汽Ta百香果味汽泡果汁",
+        "satisfy_count": 1,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "200000179838016730",
+            "name": "汽汽Ta百香果味汽泡果汁",
+            "weight": 0,
+            "virtual_food_id": 1353162214,
+            "pinyin_name": "qiqiTabaixiangguoweiqipaoguozhi",
+            "restaurant_id": 459563,
+            "food_id": 1375623074,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 5.5,
+            "sold_out": false,
+            "recent_popularity": 4,
+            "is_essential": false,
+            "item_id": "200000156838095066",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9993
+          }
+        ],
+        "category_id": 1237603727
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 1237603727,
+    "is_activity": false
+  }
+]

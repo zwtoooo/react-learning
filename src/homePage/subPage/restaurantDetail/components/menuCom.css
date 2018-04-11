@@ -1,0 +1,171 @@
+/* menucom */
+.menuCom {
+  display: flex;
+}
+.menuCom .menu-index {
+  width: 6rem;
+  color: #666;
+  background-color: #f8f8f8;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+}
+.menuCom .menu-list {
+  flex: 1;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+}
+.menuCom .menu-index-item {
+  display: flex;
+  align-items: center;
+  padding: .8rem .5rem;
+  height: 2rem;
+  line-height: 1rem;
+  text-align: left;
+  font-size: .6rem;
+  border-bottom: 1px solid #eee;
+}
+.menuCom .menu-index-item img {
+  margin-right: 5px;
+  width: 1rem;
+}
+.menuCom .menu-index-item.active {
+  background: #fff;
+}
+.menuCom .foods {
+  padding-left: 10px;
+}
+.menuCom .foods > p{
+  padding: 10px 0;
+  text-align: left;
+}
+.menuCom .foods .name {
+  margin-right: 10px;
+  font-size: .8rem;
+  font-weight: 700;
+}
+.menuCom .foods .description {
+  font-size: .6rem;
+  color: #999;
+}
+.menuCom .food-li {
+  display: flex;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.menuCom .foods-ul .food-li:last-child {
+  margin-bottom: 0;
+}
+.menuCom .food-li-img {
+  width: 5rem;
+  height: 5rem;
+}
+.menuCom .food-li-img img {
+  width: 100%;
+  height: 100%;
+}
+.menuCom .food-li-txt {
+  flex: 1;
+  margin-left: .5rem;
+  text-align: left;
+  overflow: hidden;
+}
+.menuCom .food-li-txt > p {
+  padding: .2rem;
+  padding-left: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.menuCom .food-li-name {
+  font-size: .9rem;
+  font-weight: 700;
+}
+.menuCom .food-li-des {
+  font-size: .6rem;
+  color: #999;
+}
+.menuCom .food-li-sell {
+  font-size: .6rem;
+}
+.menuCom .food-li-sell span {
+  padding-right: .5rem;
+}
+.menuCom .food-li-bottom {
+  display: flex;
+}
+.menuCom .food-li-bottom-left {
+  flex: 2;
+  overflow: hidden;
+}
+.menuCom .food-li-bottom-right {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menuCom .food-li-activity {
+  display: flex;
+  font-size: .3rem;
+}
+.menuCom .food-li-activity .activity-count {
+  display: inline-block;
+  padding: 1px;
+  width: 2.2rem;
+  text-align: center;
+  color: #fff;
+  background-image: linear-gradient(90deg,#ff7416,#ff3c15 98%);
+}
+.menuCom .food-li-activity .actitvity-quantity-text {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: center;
+  color: #f07373;
+  border: 1px solid #ff3c15;
+  border-left: none;
+}
+.menuCom .food-li-price {
+  font-size: .6rem;
+  color: #f60;
+}
+.menuCom .food-li-price em {
+  font-style: normal;
+  margin-right: 5px;
+}
+.menuCom .food-li-price .now-price {
+  margin-right: 5px;
+  font-size: 1.2rem;
+}
+.menuCom .food-li-price .origin-price {
+  color: #666;
+  text-decoration: line-through;
+}
+.menuCom .food-li-bottom-right .select-btn {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #3091f2;
+  text-align: center;
+  line-height: 22px;
+  font-size: 24px;
+  color: #fff;
+  font-weight: 600;
+}
+.menuCom .food-li-bottom-right .select-size-btn {
+  display: inline-block;
+  width: 3rem;
+  height: 1.4rem;
+  border-radius: 1rem;
+  background: #3091f2;
+  text-align: center;
+  line-height: 1.4rem;
+  font-size: .5rem;
+  color: #fff;
+}

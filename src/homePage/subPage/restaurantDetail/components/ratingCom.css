@@ -1,0 +1,38 @@
+.ratingCom {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+}
+.ratingCom-center {
+  margin: 0 10px;
+  padding: 10px 0;
+  text-align: left;
+}
+.ratingCom-center > span {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px 8px;
+  font-size: 12px;
+  background: #f5f5f5;
+  border-radius: 2px;
+}
+.ratingCom-center > span.good {
+  color: #6d7885;
+  background-color: #ebf5ff;
+}
+.ratingCom-center > span.bad {
+  color: #aaa;
+  background-color: #f5f5f5;
+}
+.ratingCom-center > span.good.active {
+  color: #fff;
+  background-color: #0097ff;
+}
+.ratingCom-center > span.bad.active {
+  color: #fff;
+  background-color: #ccc;
+}
+.nomore-tip {
+  padding: 10px 0;
+}

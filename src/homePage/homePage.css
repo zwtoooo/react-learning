@@ -1,0 +1,251 @@
+.address {
+  padding:10px 10px 0;
+  text-align: left;
+  background-color: #3091f2;
+}
+.address a {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+.search {
+  padding:10px;
+  text-align: left;
+  background-color: #3091f2;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.search.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.search input {
+  display: block;
+  height: 35px;
+  width: 100%;
+  text-align: center;
+  outline: none;
+  border: none;
+}
+.home-banner img {
+  max-width: 100vw;
+}
+
+/* category */
+.category-container {
+  height: 180px;
+  overflow: hidden;
+}
+.category-container .category-slider {
+  display: flex;
+  flex-wrap: wrap;
+  height: 168px;
+  overflow: hidden;
+}
+.category-container .category-item {
+  padding: 10px 0;
+  width: 20%;
+}
+.category-container .category-item img {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
+.category-container .category-item p {
+  padding-top: 5px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-size: 0.6rem;
+}
+
+.category-container .slick-dots {
+  bottom: -8px;
+}
+.category-container .slick-dots li,
+.category-container .slick-dots li button {
+  width: auto;
+  height: auto;
+}
+.category-container .slick-dots li button {
+  padding: 3px 0;
+}
+.category-container .slick-dots li button:before {
+  content: '';
+  width: 3px;
+  height: 3px;
+  background: #000;
+  border-radius: 50%;
+}
+/* activity */
+.newuser-activity {
+  padding: 0 10px;
+}
+.newuser-activity img {
+  width: 100%;
+}
+.activity {
+  display: flex;
+  background: linear-gradient(0deg,#f4f4f4 5%,#fafafa 95%);
+}
+.activity .left-text {
+  flex: 1;
+  padding-left: 2rem;
+  padding-top: .5rem;
+  text-align: left;
+}
+.activity .left-text h1 {
+  margin-bottom: .5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #333;
+}
+.activity .left-text p {
+  margin-bottom: .5rem;
+  font-size: .8rem;
+  color: #777;
+}
+.activity .left-text a {
+  font-size: .9rem;
+  font-weight: 800;
+  text-decoration: none;
+  color: #af8260;
+}
+.activity .right-img {
+  flex: 1;
+  padding: 0 1rem;
+}
+.activity .right-img img {
+  width: 100%;
+}
+/* restaurants */
+.restaurants-title {
+  padding: 1.3rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: .9rem;
+}
+.restaurants-title::before,
+.restaurants-title::after {
+  margin: 0 .5rem;
+  display: block;
+  content: "";
+  width: 2rem;
+  height: 2px;
+  background: #999;
+}
+.score {
+  position: relative;
+  display: inline-block;
+  margin-right: 5px;
+  text-align: left;
+}
+.score .full-stars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.score .full-stars ul {
+  width: 5rem;
+}
+.score li {
+  display: inline-block;
+  margin: 0 1px;
+  font-size: .3rem;
+}
+.score .empty-stars li {
+  color: #eee;
+}
+.score .full-stars li {
+  color: #ffd000;
+}
+.restaurant {
+  display: flex;
+  margin-bottom: 2rem;
+  padding: 0 10px;
+  text-align: left;
+  background: #fff;
+}
+.restaurant .left-side {
+  margin-right: 10px;
+  width: 65px;
+  height: 65px;
+}
+.restaurant .left-side img {
+  width: 100%;
+  height: 100%;
+}
+.restaurant .right-side {
+  flex: 1;
+  overflow: hidden;
+  font-size: .5rem;
+}
+.restaurant .right-side h2 {
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+.restaurant .right-side .sec-line {
+  margin-bottom: 8px;
+}
+.restaurant .right-side .sec-line > div {
+  display: inline-block;
+  vertical-align: middle;
+  color: #666;
+}
+.restaurant .right-side .sec-line .grade {
+  margin-right: 5px;
+}
+.restaurant .right-side .third-line {
+  margin-bottom: 8px;
+  display: flex;
+  color: #666;
+}
+.restaurant .right-side .third-line div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.restaurant .right-side .third-line .left {
+  flex: 3;
+}
+.restaurant .right-side .third-line .right {
+  flex: 2;
+  text-align: right;
+}
+.restaurant .right-side .third-line .send-least-cash,
+.restaurant .right-side .third-line .distance {
+  padding-right: 5px;
+  border-right: 1px solid #ddd;
+}
+.restaurant .right-side .third-line .need-time,
+.restaurant .right-side .third-line .other-need-cash {
+  padding-left: 5px;
+}
+.restaurant .activities-list {
+  position: relative;
+  overflow: hidden;
+}
+.restaurant .activities-list .more-activities {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: .5rem;
+  color: #666;
+}
+.restaurant .restaurant-activity {
+  margin-bottom: 5px;
+  color: #666;
+}
+.restaurant .restaurant-activity i{
+  display: inline-block;
+  padding: 1px 3px;
+  margin-right: 3px;
+  font-style: normal;
+  color: #fff;
+  border-radius: 2px;
+}

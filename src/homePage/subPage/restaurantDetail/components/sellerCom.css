@@ -1,0 +1,76 @@
+.sellerCom {
+  text-align: left;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.sellerCom-sendinfo,
+.sellerCom-pictures,
+.sellerCom-selllerinfo,
+.sellerCom-activity {
+  padding: 15px;
+  font-size: 13px;
+  line-height: 24px;
+  border-bottom: 10px solid #f5f5f5;
+  color: #666;
+}
+.sellerCom-selllerinfo {
+  padding-right: 0;
+}
+.sellerCom-sendinfo .title,
+.sellerCom-pictures .title,
+.sellerCom-selllerinfo .title,
+.sellerCom-activity .title {
+  margin: 5px  0;
+  font-size: 15px;
+  font-weight: bold;
+}
+.sellerCom-activity-li > i {
+  padding: 0 3px;
+  margin-right: 5px;
+  font-style: normal;
+  font-size: 12px;
+}
+.sellerCom-picture-ul {
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.sellerCom-picture-li {
+  position: relative;
+  display: inline-block;
+  margin-right: 8px;
+  width: 25%;
+  box-sizing: border-box;
+}
+.sellerCom-picture-li > img {
+  width: 100%;
+  height: 100%;
+}
+.sellerCom-picture-li > p {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-size: 12px;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+}
+.sellerCom-selllerinfo-li {
+  padding-right: 15px;
+  line-height: 40px;
+  font-size: 14px;
+  border-bottom: 1px solid #f5f5f5;
+  overflow: hidden;
+}
+.sellerCom-selllerinfo-li > span:first-child {
+  float: left;
+  font-weight: 600;
+  color: #333;
+}
+.sellerCom-selllerinfo-li > span:last-child {
+  float: right;
+  color: #666;
+}

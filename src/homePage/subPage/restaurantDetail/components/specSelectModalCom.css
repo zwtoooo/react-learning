@@ -1,0 +1,108 @@
+.modal-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,.7);
+}
+.modal-wrap.show {
+  display: flex;
+}
+.modal-window {
+  width: 80vw;
+  background: #fff;
+  border-radius: 5px;
+}
+.modal-window .header {
+  position: relative;
+  max-height: 5rem;
+  line-height: 2.5rem;
+}
+.modal-window .close-modal {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+}
+.modal-window .close-modal::before,
+.modal-window .close-modal::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20px;
+  height: 2px;
+  background: #999;
+}
+.modal-window .close-modal::before {
+  transform: translateX(-50%) translateY(-50%) rotateZ(45deg);
+}
+.modal-window .close-modal::after {
+  transform: translateX(-50%) translateY(-50%) rotateZ(-45deg);
+}
+.modal-window .main {
+  padding: 0 20px;
+  text-align: left;
+}
+.modal-window .main p {
+  margin-bottom: 10px;
+}
+.modal-window .main li {
+  display: inline-block;
+  margin-right: 12px;
+  margin-bottom: 10px;
+  padding: 2px 10px;
+  height: 20px;
+  border: 1px solid #999;
+  border-radius: 12px;
+  color: #666;
+}
+.modal-window .main li.selected {
+  color: #3199e8;
+  border-color: #3099e8;
+  background: #f6f6ff;
+  font-weight: 700;
+}
+.modal-window .footer {
+  margin-top: 10px;
+  padding: 15px 20px;
+  height: 30px;
+  text-align: left;
+  background: #f9f9f9;
+}
+.modal-window .footer .price {
+  margin-right: 5px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #ff6000;
+}
+.modal-window .footer .price i {
+  font-style: normal;
+  font-size: .8rem;
+  font-weight: normal;
+}
+.modal-window .footer .price i:nth-of-type(2) {
+  margin-left: 5px;
+}
+.modal-window .footer .original_price {
+  position: relative;
+  top: -5px;
+  font-size: .5rem;
+  text-decoration: line-through;
+  color: #666;
+}
+.modal-window .footer button {
+  float: right;
+  width: 5rem;
+  height: 2rem;
+  background: #3091f2;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
